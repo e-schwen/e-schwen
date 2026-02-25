@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a bachelor student at **EPFL**, studying chemistry :test_tube: and chemical engineering :atom: (**CGC** section)
+
+You can reach me at: eulalie.schwendenmann@epfl.ch 📨
+
 <!--
 **e-schwen/e-schwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
